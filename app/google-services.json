@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "282580456778",
+    "project_id": "mycharge-5125e",
+    "storage_bucket": "mycharge-5125e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282580456778:android:e968d7e47a107897875db3",
+        "android_client_info": {
+          "package_name": "com.gorbunovgroup.chargechangenotifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282580456778-oq1ph9n1jfn7uotbrr5655ih8jhjsu8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gorbunovgroup.chargechangenotifier",
+            "certificate_hash": "9feb291edf86ef5a0b28ad46aad92395e545ca9d"
+          }
+        },
+        {
+          "client_id": "282580456778-t3am1et4bhirumamk2hejj3cdhnp3d5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjtz0Nt0ftIYQiSm13q0rlBjNXgr-T6-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282580456778-t3am1et4bhirumamk2hejj3cdhnp3d5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
